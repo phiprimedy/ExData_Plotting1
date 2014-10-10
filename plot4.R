@@ -33,7 +33,7 @@ plot(data$Date,
      data$Global_active_power,
      type="l",
      xlab="",
-     ylab="Global Active Power (kilowatts)")
+     ylab="Global Active Power")
 plot(data$Date,
      data$Voltage,
      type="l",
